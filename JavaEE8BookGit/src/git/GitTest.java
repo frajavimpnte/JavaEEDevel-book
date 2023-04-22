@@ -7,6 +7,7 @@ public class GitTest {
 		System.out.println("Hello, World");
 		System.out.println("Se agrego esta linea");
 		System.out.println("Se volvio agregar otra linea. Tiene este BUG---");
+		System.out.println("Bug#1234, resuelto!");
 	}
 
 }
